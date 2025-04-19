@@ -426,3 +426,12 @@ body {
     font-size: 0.9rem;
   }
 }
+@media (max-width: 430px) {
+  .home-content h1 {
+    font-size: 36px;
+  }
+  .nav-links {
+    gap: 1rem;
+    font-size: 0.9rem;
+  }
+}
